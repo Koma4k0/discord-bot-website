@@ -2,7 +2,7 @@
 
 # 🎵 Sound Wave - Discord Music Bot Website
 
-A modern, responsive website for the Sound Wave Discord music bot, featuring a clean design and comprehensive documentation.
+A modern, responsive website for the Sound Wave Discord music bot, featuring a clean and mobile friendly design.
 
 <div align="center">
   <img src="images/home.png" alt="Home page - Light Mode" width="400">
