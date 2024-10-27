@@ -30,9 +30,9 @@ A modern, responsive website for the Sound Wave Discord music bot, featuring a c
 ## 🚀 Getting Started
 
 Clone the repository `git clone https://github.com/Koma4k0/discord-bot-website.git`<br>
-Install dependencies `npm i or npm install`
-Start the development server `npm run dev`
-Open your browser and visit `http://localhost:3000`
+Install dependencies `npm i or npm install`<br>
+Start the development server `npm run dev`<br>
+Open your browser and visit `http://localhost:3000`<br>
 
 ## 📸 Screenshots
 
